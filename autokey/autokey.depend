@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1547488409 source:c:\users\mihai lazar\desktop\c or c++\autokey\autokey.c
+	"Cifruri.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1547488409 c:\users\mihai lazar\desktop\c or c++\autokey\cifruri.h
+
+1547488409 source:c:\users\mihai lazar\desktop\c or c++\autokey\main.c
+	<stdio.h>
+	"Autokey.c"
+
+1547488409 c:\users\mihai lazar\desktop\c or c++\autokey\autokey.c
+	"Cifruri.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

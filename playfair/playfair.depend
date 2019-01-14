@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1547487569 source:c:\users\mihai lazar\desktop\c or c++\playfair\main.c
+	<stdio.h>
+	"Playfair.c"
+
+1547487569 c:\users\mihai lazar\desktop\c or c++\playfair\playfair.c
+	"Cifruri.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1547487569 c:\users\mihai lazar\desktop\c or c++\playfair\cifruri.h
+
+1547487569 source:c:\users\mihai lazar\desktop\c or c++\playfair\playfair.c
+	"Cifruri.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
